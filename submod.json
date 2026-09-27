@@ -1,0 +1,134 @@
+[
+  {
+    "id": "mj-selector-city",
+    "name": "Selector City",
+    "version": "1.0.0",
+    "author": "mayday-mayjay",
+    "description": "Custom background/location selector submod for Monika After Story.",
+    "category": "Location / Backgrounds",
+    "download_url": "https://github.com/mayday-mayjay/MJ-MAS-selector-city/releases/latest",
+    "sha256": "REPLACE_WITH_ZIP_SHA256",
+    "install_path": "game/Submods/MJ-MAS-selector-city"
+  },
+  {
+    "id": "mas-wtf",
+    "name": "MAS WTF",
+    "version": "1.0.0",
+    "author": "Friends of Monika",
+    "description": "Adds utility and fun conversational topics/interactions.",
+    "category": "Dialogue & Events",
+    "download_url": "https://github.com/Friends-of-Monika/mas-wtf/releases/latest",
+    "sha256": "REPLACE_WITH_ZIP_SHA256",
+    "install_path": "game/Submods/mas-wtf"
+  },
+  {
+    "id": "mas-selfharm",
+    "name": "Self-Harm Sensitive Support",
+    "version": "1.0.0",
+    "author": "Friends of Monika",
+    "description": "Provides sensitive, supportive dialogue topics regarding self-harm care.",
+    "category": "Dialogue & Support",
+    "download_url": "https://github.com/Friends-of-Monika/mas-selfharm/releases/latest",
+    "sha256": "REPLACE_WITH_ZIP_SHA256",
+    "install_path": "game/Submods/mas-selfharm"
+  },
+  {
+    "id": "mas-presence",
+    "name": "Discord Rich Presence",
+    "version": "1.0.0",
+    "author": "Friends of Monika",
+    "description": "Displays your Monika After Story status and time spent on Discord.",
+    "category": "Integrations / Utilities",
+    "download_url": "https://github.com/Friends-of-Monika/mas-presence/releases/latest",
+    "sha256": "REPLACE_WITH_ZIP_SHA256",
+    "install_path": "game/Submods/mas-presence"
+  },
+  {
+    "id": "ddlc-comfy-ui",
+    "name": "DDLC Comfy UI",
+    "version": "1.0.0",
+    "author": "Iniquitatis",
+    "description": "Overhauls the game user interface with a sleek, customizable design.",
+    "category": "UI Tweaks",
+    "download_url": "https://github.com/Iniquitatis/DDLCComfyUI/releases/latest",
+    "sha256": "REPLACE_WITH_ZIP_SHA256",
+    "install_path": "game/Submods/DDLCComfyUI"
+  },
+  {
+    "id": "mas-autostart",
+    "name": "MAS AutoStart",
+    "version": "1.0.0",
+    "author": "Friends of Monika",
+    "description": "Configures Monika After Story to open automatically on system boot.",
+    "category": "Utilities",
+    "download_url": "https://github.com/Friends-of-Monika/mas-autostart/releases/latest",
+    "sha256": "REPLACE_WITH_ZIP_SHA256",
+    "install_path": "game/Submods/mas-autostart"
+  },
+  {
+    "id": "mas-noises",
+    "name": "MAS Ambient Noises",
+    "version": "1.0.0",
+    "author": "Friends of Monika",
+    "description": "Adds customizable background ambient sounds and atmospheric audio.",
+    "category": "Audio / Atmosphere",
+    "download_url": "https://github.com/Friends-of-Monika/mas-noises/releases/latest",
+    "sha256": "REPLACE_WITH_ZIP_SHA256",
+    "install_path": "game/Submods/mas-noises"
+  },
+  {
+    "id": "auto-atmos-change",
+    "name": "Auto Atmosphere Change",
+    "version": "1.0.0",
+    "author": "multimokia",
+    "description": "Automatically changes ambient sounds and weather based on real time/weather.",
+    "category": "Atmosphere / Weather",
+    "download_url": "https://github.com/multimokia/MAS-Submod-Auto-Atmos-Change/releases/latest",
+    "sha256": "REPLACE_WITH_ZIP_SHA256",
+    "install_path": "game/Submods/MAS-Submod-Auto-Atmos-Change"
+  },
+  {
+    "id": "consistent-menus",
+    "name": "Consistent Menus",
+    "version": "1.0.0",
+    "author": "multimokia",
+    "description": "Standardizes menu layouts and UI interactions across submods.",
+    "category": "UI Tweaks",
+    "download_url": "https://github.com/multimokia/MAS-Submod-consistent-menus/releases/latest",
+    "sha256": "REPLACE_WITH_ZIP_SHA256",
+    "install_path": "game/Submods/MAS-Submod-consistent-menus"
+  },
+  {
+    "id": "custom-room-selection-pack",
+    "name": "Custom Room Selection Pack",
+    "version": "1.0.0",
+    "author": "tw4449",
+    "description": "Adds a wide selection of custom main rooms and furniture layouts.",
+    "category": "Location / Backgrounds",
+    "download_url": "https://github.com/tw4449-s-MAS-Submods/tw4449-Custom-Room-Selection-Pack-Main-Repository/releases/latest",
+    "sha256": "REPLACE_WITH_ZIP_SHA256",
+    "install_path": "game/Submods/tw4449_Custom_Rooms"
+  },
+  {
+    "id": "memories-selfcare-literature",
+    "name": "Memories of Self-Care and Literature",
+    "version": "1.0.0",
+    "author": "Barsonvenus",
+    "description": "Adds comprehensive self-care dialogues, reading discussions, and check-ins.",
+    "category": "Dialogue & Events",
+    "download_url": "https://github.com/Barsonvenus/Memories-of-Self-Care-and-Literature/releases/latest",
+    "sha256": "REPLACE_WITH_ZIP_SHA256",
+    "install_path": "game/Submods/Memories-of-Self-Care-and-Literature"
+  },
+  {
+    "id": "font-switcher",
+    "name": "MAS Font Switcher",
+    "version": "1.0.0",
+    "author": "zer0fixer",
+    "description": "Allows custom UI font replacement throughout Monika After Story.",
+    "category": "UI Tweaks",
+    "download_url": "https://github.com/zer0fixer/MAS-FontSwitcher/releases/latest",
+    "sha256": "REPLACE_WITH_ZIP_SHA256",
+    "install_path": "game/Submods/MAS-FontSwitcher"
+  }
+]
