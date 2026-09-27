@@ -13,7 +13,7 @@
   {
     "id": "mas-wtf",
     "name": "MAS WTF",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Friends of Monika",
     "description": "Adds utility and fun conversational topics/interactions.",
     "category": "Dialogue & Events",
@@ -24,7 +24,7 @@
   {
     "id": "mas-selfharm",
     "name": "Self-Harm Sensitive Support",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "author": "Friends of Monika",
     "description": "Provides sensitive, supportive dialogue topics regarding self-harm care.",
     "category": "Dialogue & Support",
@@ -35,7 +35,7 @@
   {
     "id": "mas-presence",
     "name": "Discord Rich Presence",
-    "version": "1.0.0",
+    "version": "1.2.1",
     "author": "Friends of Monika",
     "description": "Displays your Monika After Story status and time spent on Discord.",
     "category": "Integrations / Utilities",
@@ -46,7 +46,7 @@
   {
     "id": "ddlc-comfy-ui",
     "name": "DDLC Comfy UI",
-    "version": "1.0.0",
+    "version": "2.1.0",
     "author": "Iniquitatis",
     "description": "Overhauls the game user interface with a sleek, customizable design.",
     "category": "UI Tweaks",
@@ -57,7 +57,7 @@
   {
     "id": "mas-autostart",
     "name": "MAS AutoStart",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Friends of Monika",
     "description": "Configures Monika After Story to open automatically on system boot.",
     "category": "Utilities",
@@ -68,7 +68,7 @@
   {
     "id": "mas-noises",
     "name": "MAS Ambient Noises",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "author": "Friends of Monika",
     "description": "Adds customizable background ambient sounds and atmospheric audio.",
     "category": "Audio / Atmosphere",
@@ -79,7 +79,7 @@
   {
     "id": "auto-atmos-change",
     "name": "Auto Atmosphere Change",
-    "version": "1.0.0",
+    "version": "1.1.2",
     "author": "multimokia",
     "description": "Automatically changes ambient sounds and weather based on real time/weather.",
     "category": "Atmosphere / Weather",
@@ -90,7 +90,7 @@
   {
     "id": "consistent-menus",
     "name": "Consistent Menus",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "author": "multimokia",
     "description": "Standardizes menu layouts and UI interactions across submods.",
     "category": "UI Tweaks",
@@ -101,7 +101,7 @@
   {
     "id": "custom-room-selection-pack",
     "name": "Custom Room Selection Pack",
-    "version": "1.0.0",
+    "version": "2.0.4",
     "author": "tw4449",
     "description": "Adds a wide selection of custom main rooms and furniture layouts.",
     "category": "Location / Backgrounds",
@@ -112,7 +112,7 @@
   {
     "id": "memories-selfcare-literature",
     "name": "Memories of Self-Care and Literature",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "author": "Barsonvenus",
     "description": "Adds comprehensive self-care dialogues, reading discussions, and check-ins.",
     "category": "Dialogue & Events",
@@ -123,7 +123,7 @@
   {
     "id": "font-switcher",
     "name": "MAS Font Switcher",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "author": "zer0fixer",
     "description": "Allows custom UI font replacement throughout Monika After Story.",
     "category": "UI Tweaks",
